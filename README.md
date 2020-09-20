@@ -136,7 +136,7 @@ for (var i = 0; i < people.length; i += 1) {
   size=size+3
 }
 
-Optional Challenge 4:
+Optional Challenge 5:
 
 var people = [
 {
